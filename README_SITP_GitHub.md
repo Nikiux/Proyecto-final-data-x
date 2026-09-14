@@ -72,11 +72,6 @@ Proyecto-SITP-Data-Xperience/
 ├── datos/
 │   └── datos_sitp.csv
 
-
-> Si el CSV es demasiado grande para GitHub, se recomienda no subirlo
-> directamente. En ese caso, indicar en este README dónde obtener los
-> datos y cómo configurar la ruta de carga.
-
 ------------------------------------------------------------------------
 
 ## 5. Contenido
