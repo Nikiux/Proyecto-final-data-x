@@ -74,37 +74,6 @@ Proyecto-SITP-Data-Xperience/
 
 ------------------------------------------------------------------------
 
-## 5. Contenido
-
-### `informe/`
-
-Informe académico final en formato Word. Incluye problema, objetivos,
-datos, limpieza, EDA, estadística, visualizaciones, patrones, K-Means,
-evaluación, PCA, conclusiones, recomendaciones y referencias.
-
-### `presentacion/`
-
-Diapositivas para la sustentación presencial de 10--15 minutos.
-
-### `notebooks/`
-
-Notebook de Google Colab/Jupyter con el código completo.
-
-### `datos/`
-
-Datos utilizados para ejecutar el análisis, cuando su tamaño y
-condiciones de distribución permiten almacenarlos.
-
-### `resultados/`
-
-Tablas y archivos generados durante el análisis.
-
-### `figuras/`
-
-Visualizaciones utilizadas en el informe y la presentación.
-
-------------------------------------------------------------------------
-
 ## 6. Tecnologías
 
 -   Python
