@@ -71,22 +71,7 @@ Proyecto-SITP-Data-Xperience/
 │   └── Codigo_Proyecto_SITP_FINAL.ipynb
 ├── datos/
 │   └── datos_sitp.csv
-├── resultados/
-│   ├── resultados_hora.csv
-│   ├── resultados_chi_cuadrado.csv
-│   ├── resultados_clusters.csv
-│   └── resultados_pca.csv
-└── figuras/
-    ├── estaciones_top.png
-    ├── validaciones_hora.png
-    ├── validaciones_franja.png
-    ├── tipo_tarjeta.png
-    ├── perfiles.png
-    ├── distribucion_valor.png
-    ├── heatmap_estaciones.png
-    ├── seleccion_k.png
-    └── clusters_pca.png
-```
+
 
 > Si el CSV es demasiado grande para GitHub, se recomienda no subirlo
 > directamente. En ese caso, indicar en este README dónde obtener los
